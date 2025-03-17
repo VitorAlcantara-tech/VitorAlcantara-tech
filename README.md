@@ -17,6 +17,7 @@
 <hr>
 
 <a href="https://www.linkedin.com/in/vitor-alcantara-022438353" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://www.instagram.com/_vitor_alcan/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 
 
 
