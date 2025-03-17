@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9932cc&size=35&center=true&vCenter=true&width=1000&lines=Bem+Vindo!👋;Estudante+da+FIAP+em+Engenharia+de+Software!;Conheça+o+meu+perfil+:%29)](https://git.io/typing-svg)
+
+
 #Vitor Alcantara
 
 ##Bem vindo ao meu perfil no github👋
