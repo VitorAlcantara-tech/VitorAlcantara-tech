@@ -8,7 +8,7 @@
 ##Bem vindo ao meu perfil no github👋
 
 - 🔭 Atualmente sou estudante de engenharia de software na FIAP
-- 🌱 Atualmente estou aprendendo lógica de programação, PYTHON, HTML, CSS, JAVASCRIPT, Linguagem C e Front-end
+- 🌱 Atualmente estou aprendendo lógica de programação, PYTHON, HTML, CSS, JAVASCRIPT, C++ e Front-end
 - 💬 Estou procurando colaborar em projetos para colocar em prática meus conhecimentos e aprender cada vez mais
 
 ##Estou apredendo
