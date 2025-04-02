@@ -21,6 +21,13 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title = "Linguagem C"/></code>
 <hr>
 
+<style>
+  a img {
+    border: none;
+    outline: none;
+  }
+</style>
+
 ##Para contato:
 <div align="left">
   <a href="https://www.linkedin.com/in/vitor-alcantara" target="_blank">
