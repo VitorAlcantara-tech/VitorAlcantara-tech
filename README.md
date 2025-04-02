@@ -23,9 +23,8 @@
 
 ##Para contato:
 <div align="left">
-  <a href="www.linkedin.com/in/vitor-alcantara" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
-    <a href= "www.linkedin.com/in/vitor-alcantara"><img height="30" width="40" src = "https://simpleicons.org/icons/linkedin.svg"></a>
+  <a href="https://www.linkedin.com/in/vitor-alcantara" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/_vitor_alcan/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo"  />
