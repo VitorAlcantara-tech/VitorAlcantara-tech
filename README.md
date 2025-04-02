@@ -21,21 +21,20 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title = "Linguagem C"/></code>
 <hr>
 
-<style>
-  a img {
-    border: none;
-    outline: none;
-  }
-</style>
-
 ##Para contato:
 <div align="left">
-  <a href="https://www.linkedin.com/in/vitor-alcantara" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo" />
-  </a><a href="https://www.instagram.com/_vitor_alcan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo" />
-  </a><a href="mailto:vitoralcan5@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="35" alt="gmail logo" />
+  <a href="www.linkedin.com/in/vitor-alcantara" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/_vitor_alcan/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo"  />
+  </a>
+  <a href="mailto:vitoralcan5@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://discordapp.com/users/441297119266209792" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="40" alt="discord logo"  />
   </a>
 </div>
 
+###
