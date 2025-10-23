@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=289deb&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+GitHub!;Sou+Vitor+Alcantara;Estudante+de+Engenharia+de+Software+na+FIAP;Apaixonado+por+tecnologia+e+inovação!)](https://git.io/typing-svg)
 
-## 👋 Sobre mim  
+## Sobre mim  
 🎓 Estudante de **Engenharia de Software** na **FIAP**  
 🚀 Apaixonado por desenvolvimento web e novas tecnologias  
 🧠 Buscando evoluir constantemente com projetos reais e desafios práticos  
@@ -18,8 +18,10 @@
   <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3"/></code>
   <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/></code>
   <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/></code>
-  <code><img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React"/></code>
-  <code><img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" title="Tailwind CSS"/></code>
+  <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/></code>
+  <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS"/></code>
+  <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code>
+  <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"/></code>
 </div>
 
 ### 🗄️ Banco de Dados e Versionamento  
