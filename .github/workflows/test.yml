@@ -1,0 +1,9 @@
+name: Test Actions
+on:
+  workflow_dispatch:
+
+jobs:
+  ok:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Actions está funcionando 🎉"
