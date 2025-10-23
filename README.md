@@ -64,6 +64,12 @@
 
 ---
 
+## 🐍 Animação de Contribuições  
+
+<div align="center">
+  <img src="https://github.com/vitoralcantara-tech/vitoralcantara-tech/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</div>
+
 ## 📊 Estatísticas do GitHub  
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoralcantara-tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
